@@ -1,0 +1,8 @@
+{
+  "name": "BBC精听听写实验室 (BBC Dictation Studio)",
+  "description": "BBC英语听力精听与听写练习工作台，支持实时拼写纠错、A-B复读时间点设置、连读弱读语音讲解、生词本深度解析与每日进度统计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
